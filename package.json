@@ -1,0 +1,15 @@
+{
+  "name": "hashira",
+  "version": "1.0.0",
+  "description": "Solution for Hashira Placements Assignment",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node output.js",
+    "test": "node output.js"
+  },
+  "keywords": [
+    
+  ],
+  "author": "Bhavya",
+  "license": "Bhavya"
+}
