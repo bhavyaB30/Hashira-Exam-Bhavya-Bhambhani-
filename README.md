@@ -1,1 +1,9 @@
+
+
 HASHIRA EXAM BHAVYA BHAMBHANI(229310077)
+
+Name- Bhavya Bhambhani
+
+BTech AI/ML
+
+229310077
